@@ -1,0 +1,14 @@
+{
+  "name": "dongdong-cron-job",
+  "alias": [
+    "dongdong-cron-job"
+  ],
+  "dotenv": ".env.production",
+  "files": [
+    "firebase-creds.json",
+    "firebase",
+    "index.js"
+  ],
+  "type": "npm",
+  "public": false,
+}
