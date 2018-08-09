@@ -70,4 +70,4 @@ function notifyUsers(video) {
   console.log('new video', video);
 }
 getVideosAndUpdateDB();
-setInterval(getVideosAndUpdateDB, 1000 * 60 * 5)
+setInterval(getVideosAndUpdateDB, 1000 * 60 * 6)
