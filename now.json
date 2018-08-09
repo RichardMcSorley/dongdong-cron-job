@@ -6,6 +6,7 @@
   "dotenv": ".env.production",
   "files": [
     "firebase-creds.json",
+    ".env.production",
     "firebase",
     "index.js"
   ],
